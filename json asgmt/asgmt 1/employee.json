@@ -1,0 +1,39 @@
+{
+    "employees" : [
+        {
+        "Name":"sona",
+        "DOB":"02/05/1998",
+        "Height":"5.4ft",
+        "City":"mangalore",
+        "State":"karnataka"
+        },
+        {
+        "Name":"ashithosh",
+        "DOB":"08/07/1998",
+        "Height":"5.8ft",
+        "City":"bangalore",
+        "State":"karnataka"
+        },
+        {
+        "Name":"jessy",
+        "DOB":"25/05/1996",
+        "Height":"5.3ft",
+        "City":"chennai",
+        "State":"tamil nadu"
+        },
+        {
+        "Name":"hrithik",
+        "DOB":"24/08/1999",
+        "Height":"6.1ft",
+        "City":"kochi",
+        "State":"kerala"
+        },
+        {
+        "Name":"pallavi",
+        "DOB":"12/11/1993",
+        "Height":"5.5ft",
+        "City":"hyderabad",
+        "State":"telangana"
+        }
+        ]
+}
